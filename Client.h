@@ -2,7 +2,7 @@
 File Description :Client Utility
 Project          :Remote Directory Monitoring System
 Purpose          :Project Deliverable Submitted By Ayokunle Ade-Aina to
-Reference        :Verator Inc, Vero Beach FLORIDA, May 2016
+Reference        :xxx
 ************************************************************************/
 #ifndef CLIENT_H_
 #define CLIENT_H_

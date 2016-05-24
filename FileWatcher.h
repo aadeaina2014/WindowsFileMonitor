@@ -3,8 +3,6 @@ File Description :Directory Watch Utility
 Project          :Remote Directory Monitoring System
 Purpose          :Project Deliverable Submitted By Ayokunle Ade-Aina 
 Reference        :xxx
-                  ayokunle.adeaina@gmail.com
-				  aadeaina2014@my.fit.edu
 Date             : May 2016
 ************************************************************************/
 

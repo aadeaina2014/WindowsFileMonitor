@@ -1,10 +1,18 @@
+/************************************************************************
+File Description :Server Utility
+Project          :Remote Directory Monitoring System
+Purpose          :Project Deliverable Submitted By Ayokunle Ade-Aina to
+Reference        :xxx
+Date             : May 2016
+************************************************************************/
+
 #include "Server.h"
-
-
 
 //////////////////////////////////////////////////////////////
 // Mark: initialize Variables reqiured for Socket connection
 /////////////////////////////////////////////////////////////
+
+
 bool initializeSocket()
 {
 	// Initialize Winsock

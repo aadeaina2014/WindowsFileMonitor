@@ -1,3 +1,11 @@
+/************************************************************************
+File Description :Directory Watch Utility
+Project          :Remote Directory Monitoring System
+Purpose          :Project Deliverable Submitted By Ayokunle Ade-Aina 
+Reference        :xxx
+Date             : May 2016
+************************************************************************/
+
 #include "FileWatcher.h"
 ////////////////////////////////
 // Function Implementation
